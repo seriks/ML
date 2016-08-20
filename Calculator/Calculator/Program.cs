@@ -14,7 +14,7 @@ namespace Calculator
             int b = 10;
 
             Console.WriteLine(a+b);
-
+            // sql must contains here
             Console.ReadKey();
 
 
